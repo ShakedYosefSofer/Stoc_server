@@ -1,1 +1,0 @@
-# Stoc_server
