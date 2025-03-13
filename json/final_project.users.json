@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65df6fbdfaa1a5ea5fd607cf"
+  },
+  "name": "admin",
+  "email": "admin@walla.com",
+  "password": "$2b$10$119EFgAg2Z.W.eckudRyMuCCkzYKqLu1RxO46qpbdWS7pnY0SmZ9y",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-02-28T17:39:09.403Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T17:39:09.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d0d3f98cc3687709ca990f"
+  },
+  "name": "shakedyosef",
+  "email": "shakedyosef@walla.com",
+  "password": "$2b$10$u5U2Td/Ou55jiDRViOp4zuz2fXqD9rwgHBrH0xHJsw.ng0dFO1Fcm",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-08-29T20:03:05.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-29T20:03:22.508Z"
+  },
+  "__v": 0
+}]
